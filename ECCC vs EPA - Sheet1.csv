@@ -1,0 +1,19 @@
+Theme,ECCC Framework,EPA Supplemental
+Destruction equipment,Achieve ≥ 99% efficiency.,Achieve ≥ 95% efficiency.
+Routine flaring (associated gas),Prohibited at oil sites must use enclosed combustion.,"Must route gas to sales line. If not feasible, beneficial on-site use permitted. If not feasible, flaring (≥ 95% efficiency) allowed."
+Conservation equipment,Achieve ≥ 98% efficiency.,Achieve  ≥ 95% efficiency.
+Fuel combustion,Achieve  ≥ 95% efficiency.,Not specified.
+General venting,Oil facilities emitting > 5 m3/day must eliminate venting via conservation.,Not specified. Partially addressed via 100 kg/h minimum rate for super-emitter response program.
+Pneumatic controllers and pumps,All devices must be non-emitting or captured.,All devices must be non-emitting.
+Leak detection – conventional,Monthly inspections at all sites – not conditional on site type.,"Up to monthly AVO and quarterly OGI/M21, depending on site type. Only quarterly AVO at “small” single-well sites."
+Leak detection – alternative,Not specified. Expected to be allowed.,Streamlined approvals based on technology performance. Survey frequency based on 90% probability of detection limit.
+Leak repair,"Immediate, but up to maximum of 30 days if infeasible.",Repair within 15 days (AVO). First attempt within 30 days for OGI/M21 and final attempt within 30 days of first attempt.
+Compressor engine exhaust,Emissions cannot exceed 1 g/kWh methane,Not specified.
+Centrifugal compressors,Must be < 8.4 m3/h for new installations and < 20.5 m3/h for existing installations (or < 40.8 m3/h if > 5MW).*,Wet seals vent capture of 95%. Dry seals must be < 3 scfm.
+Reciprocating compressors,Must be < 0.06 m3/h/throw for new installations and < 1.38 m3/h/throw for existing.*,Maintain flow rate < 2 scfm.
+Planned blowdowns,Must be captured or destroyed.,Not specified.
+Glycol dehydrators,Emission reductions of 95% or gas capture.,Not specified.
+Liquids Unloading,Capture and recovery techniques or install and use a control device to achieve at least 95% control.,"Zero methane and VOC emissions. If unsafe or infeasible, use best practices to minimize."
+Storage vessels,Not specified.,95% methane and VOC reduction for tanks or tank batteries > 6 tpy (new) or 20 tpy (existing) potential to emit.
+Completions,Not specified.,Use of Reduced Emissions Completion (REC) required. Use of completion combustion device required where safe.
+Super-emitters,Not specified.,A super-emitter response program is implemented for sources ≥ 100 kg/h.
